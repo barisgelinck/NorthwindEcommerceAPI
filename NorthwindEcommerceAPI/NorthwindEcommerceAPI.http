@@ -1,0 +1,6 @@
+@NorthwindEcommerceAPI_HostAddress = http://localhost:5007
+
+GET {{NorthwindEcommerceAPI_HostAddress}}
+Accept: application/json
+
+###
